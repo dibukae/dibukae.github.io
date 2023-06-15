@@ -21,6 +21,10 @@ a:hover {
     color: rgb(223, 189, 0);
 }
 
+a:visited{
+    color: aliceblue;
+}
+
 hr{
     height: 5px;
     background-color: rgb(223, 189, 0);
@@ -29,7 +33,7 @@ hr{
 
 .rectangle {
     width: 80%;
-    background-color: rgb(32, 32, 53);
+    background: linear-gradient(rgb(32, 32, 53)70%, rgb(53, 65, 77));
     margin-left: auto;
     margin-right: auto;
     padding: 20px;
