@@ -12,3 +12,11 @@ h1{
 html{
     background-image: url(https://lumiere-a.akamaihd.net/v1/images/star-wars-backgrounds-14_856985d9.jpeg);
 }
+
+a{
+    color: grey;
+}
+
+a:hover {
+    color: rgb(223, 189, 0);
+}
