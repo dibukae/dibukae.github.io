@@ -1,6 +1,7 @@
-hi{
+h1{
     text-align: center;
-    color: lightgrey
+    color: lightgrey;
+    font-family: 'Arial Narrow Bold';
 }
 
 /*for star wars backgrounds: https://www.starwars.com/news/star-wars-backgrounds*/
