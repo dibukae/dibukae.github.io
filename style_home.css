@@ -20,3 +20,18 @@ a{
 a:hover {
     color: rgb(223, 189, 0);
 }
+
+hr{
+    height: 5px;
+    background-color: rgb(223, 189, 0);
+    border-color: rgb(223, 189, 0);
+}
+
+.rectangle {
+    width: 80%;
+    background-color: rgb(32, 32, 53);
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 700px;
+}
