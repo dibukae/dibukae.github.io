@@ -1,13 +1,25 @@
-h1,h2{
+h1,
+h2,
+h3 {
     text-align: center;
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 15px;
+    color: ghostwhite;
 }
+
+html {}
+
 body {
-    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkquJtqC54xh3u20vK6t8CwRYQucXx-LmHRA&usqp=CAU);
-    font-family: sans-serif;
-    padding: 20px;
-  }
-  #wrapper1{
-    width:20%;
+    background: url(https://media2.giphy.com/media/YK9BCVHQMvJCfjoWV9/giphy.gif) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+/* #wrapper1 {
+    width: 20%;
     margin-left: auto;
     margin-right: auto;
-}
+} */
