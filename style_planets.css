@@ -40,6 +40,7 @@ img{
     box-shadow: -10px 10px rgb(23, 28, 58);
     width: 500px;
     height: 320px;
+    margin-top: 25px auto;
 }
 
 hr{
