@@ -1,6 +1,12 @@
-h1, h2, h3, p, figcaption{
+h1, h2, h3, p{
     text-align: center;
     color: lightgrey;
+    font-family: sans-serif; 
+}
+
+figcaption{
+    text-align: center;
+    color: rgb(38, 56, 49);
     font-family: sans-serif; 
 }
 

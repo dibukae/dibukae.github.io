@@ -21,10 +21,6 @@ a{
     color: grey;
 }
 
-a:hover {
-	color: rgb(223, 189, 0);
-}
-
 a:visited{
 	color: rgb(255, 255, 255);
 }
@@ -32,6 +28,11 @@ a:visited{
 a:active{
 	color: rgb(0, 136, 255);
 }
+
+a:hover {
+	color: rgb(223, 189, 0);
+}
+
 
 hr{
     height: 3px;

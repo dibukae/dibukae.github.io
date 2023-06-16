@@ -7,13 +7,7 @@ h2 {
     color: ghostwhite;
 }
 
-h3,
-ul,
-h5,
-h4,
-h6,
-h7,
-p {
+h3,ul,h5,h4,h6,h1,h2,p {
     font-size: 20px;
     color: ghostwhite;
 }
@@ -38,7 +32,7 @@ a:link {
     text-decoration: none;
   }
 a:visited {
-    color: lightseagreen;
+    color:blueviolet;
     background-color: transparent;
     text-decoration: none;
   }
