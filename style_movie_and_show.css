@@ -10,7 +10,7 @@ h1, h2, p, legend, label{
 
 .rectangle {
 	width: 80%;
-    background: linear-gradient(rgb(219, 202, 191)70%, rgb(195, 167, 131));
+    background: linear-gradient(rgb(195, 167, 131), rgb(219, 202, 191)70%, rgb(195, 167, 131));
     margin-left: auto;
     margin-right: auto;
     padding: 20px;

@@ -38,7 +38,7 @@ hr{
 
 .rectangle {
     width: 80%;
-    background: linear-gradient(rgb(32, 32, 53)70%, rgb(7, 7, 14));
+    background: linear-gradient(rgb(7, 7, 14), rgb(32, 32, 53)80%, rgb(7, 7, 14));
     margin-left: auto;
     margin-right: auto;
     padding: 20px;
