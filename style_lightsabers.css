@@ -7,3 +7,28 @@ h1, h2, p{
 html{
 	background-image: url(https://lumiere-a.akamaihd.net/v1/images/star-wars-backgrounds-20-1_33761d6d.jpeg);
 }
+
+.rectangle {
+    width: 80%;
+    background: linear-gradient(rgb(24, 13, 17), rgb(51, 39, 43)80%, rgb(24, 13, 17));
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 700px;
+}
+
+a{
+    color: grey;
+}
+
+a:hover {
+	color: rgb(223, 189, 0);
+}
+
+a:visited{
+	color: rgb(255, 255, 255);
+}
+
+a:active{
+	color: rgb(0, 136, 255);
+}
