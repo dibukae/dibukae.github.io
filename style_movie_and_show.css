@@ -25,3 +25,19 @@ img {
 	height: 281px;
 	box-shadow: 5px 5px rgb(32, 32, 53);
 }
+
+a{
+    color: grey;
+}
+
+a:hover {
+	color: rgb(223, 189, 0);
+}
+
+a:visited{
+	color: rgb(255, 255, 255);
+}
+
+a:active{
+	color: rgb(0, 136, 255);
+}
