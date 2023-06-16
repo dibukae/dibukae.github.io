@@ -1,4 +1,4 @@
-h1, h2, p{
+h1, h2, h3, p, figcaption{
     text-align: center;
     color: lightgrey;
     font-family: sans-serif;
@@ -47,24 +47,4 @@ hr{
 	width: 550px;
     background-color: rgb(23, 28, 58);
     border-color: rgb(23, 28, 58);
-}
-
-.kamino{
-
-}
-
-.naboo{
-
-}
-
-.lothal{
-
-}
-
-.dathomir{
-
-}
-
-.tatooine{
-
 }

@@ -11,10 +11,14 @@ h3,
 ul,
 h5,
 h4,
-h6,
-p {
+h6 {
     font-size: 20px;
     color: yellow;
+}
+
+p{
+    font-size: 20px;
+    color:ghostwhite;
 }
 
 #dylan {
@@ -26,7 +30,7 @@ p {
 }
 
 body {
-    background: url(https://e1.pxfuel.com/desktop-wallpaper/1/910/desktop-wallpaper-star-wars-amoled-by-shmuelrosenbluth.jpg) no-repeat center center fixed;
+    background: url(https://media.tenor.com/C6qR8z_eVGEAAAAC/star-wars-galaxy.gif) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
