@@ -27,14 +27,16 @@ body {
     background-size: cover;
 }
 a:link {
-    color: ghostwhite;
+    color: yellow;
     background-color: transparent;
     text-decoration: none;
+    outline-color: black;
   }
 a:visited {
-    color:blueviolet;
+    color:yellow;
     background-color: transparent;
     text-decoration: none;
+    outline-color: black;
   }
 
 
