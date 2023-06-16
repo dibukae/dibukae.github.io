@@ -2,7 +2,17 @@ html{
     background-image: url(https://lumiere-a.akamaihd.net/v1/images/star-wars-backgrounds-18_257c6571.jpeg);
 }
 
-h1, h2, p{
-    color: lightgrey;
+h1, h2, p, legend, label{
+    color: rgb(32, 32, 53);
     text-align: center;
+	font-family: sans-serif;
+}
+
+.rectangle {
+	width: 80%;
+    background: linear-gradient(rgb(219, 202, 191)70%, rgb(137, 115, 86));
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 700px;
 }
