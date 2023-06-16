@@ -21,5 +21,7 @@ img {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
+	width: 500px;
+	height: 281px;
 	box-shadow: 5px 5px rgb(32, 32, 53);
 }
