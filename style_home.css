@@ -30,7 +30,8 @@ a:active{
 }
 
 hr{
-    height: 5px;
+    height: 3px;
+	width: 300px;
     background-color: rgb(223, 189, 0);
     border-color: rgb(223, 189, 0);
 }
