@@ -29,6 +29,11 @@ body {
     -o-background-size: cover;
     background-size: cover;
 }
+a:visited {
+    color: ghostwhite;
+    background-color: transparent;
+    text-decoration: none;
+  }
 
 /* #wrapper1 {
     width: 20%;
