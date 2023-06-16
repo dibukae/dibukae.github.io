@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    color: lightgrey;
+    font-family: sans-serif;
+}
+
+a{
+    color: grey;
+}
+
+a:visited{
+	color: rgb(255, 255, 255);
+}
+
+a:active{
+	color: rgb(0, 136, 255);
+}
+
+a:hover {
+	color: rgb(223, 189, 0);
+}
