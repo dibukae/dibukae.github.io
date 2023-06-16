@@ -1,4 +1,4 @@
-h1, h2, p{
+h1, h2, p, figcaption{
     text-align: center;
     color: lightgrey;
     font-family: sans-serif; 
@@ -6,6 +6,10 @@ h1, h2, p{
 
 h1{
     font-family: arial;
+}
+
+figcaption{
+	font-family: 'Times New Roman';
 }
 
 /*for star wars backgrounds: https://www.starwars.com/news/star-wars-backgrounds*/
