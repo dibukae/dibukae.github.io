@@ -7,7 +7,12 @@ h2 {
     color: ghostwhite;
 }
 
-h3,ul,h5,h4,h6,p {
+h3,
+ul,
+h5,
+h4,
+h6,
+p {
     font-size: 20px;
     color: ghostwhite;
 }
@@ -15,29 +20,32 @@ h3,ul,h5,h4,h6,p {
 #dylan {
     width: 200px;
 }
-#briahna{
+
+#briahna {
     width: 200px;
 }
 
 body {
-    background: url(https://media2.giphy.com/media/1ylebTFyDHaa46IDgO/giphy.gif) no-repeat center center fixed;
+    background: url() no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
 }
+
 a:link {
     color: yellow;
     background-color: transparent;
     text-decoration: none;
     outline-color: black;
-  }
+}
+
 a:visited {
-    color:yellow;
+    color: yellow;
     background-color: transparent;
     text-decoration: none;
     outline-color: black;
-  }
+}
 
 
 /* #wrapper1 {
