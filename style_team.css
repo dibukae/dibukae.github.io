@@ -1,7 +1,7 @@
 h1,
 h2 {
     text-align: center;
-    font-size: 50px;
+    font-size: 40px;
     margin-top: 0;
     margin-bottom: 15px;
     color: ghostwhite;
@@ -12,25 +12,25 @@ ul,
 h5,
 h4,
 h6 {
-    font-size: 35px;
+    font-size: 30px;
     color: yellow;
 }
 
 p{
-    font-size: 25px;
+    font-size: 20px;
     color:ghostwhite;
 }
 
 #dylan {
-    width: 250px;
+    width: 200px;
 }
 
 #briahna {
-    width: 250px;
+    width: 200px;
 }
 
 body {
-    background: url(https://media.tenor.com/C6qR8z_eVGEAAAAC/star-wars-galaxy.gif) no-repeat center center fixed;
+    background: url(https://cdn.wallpapersafari.com/81/95/Z7D2q6.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
