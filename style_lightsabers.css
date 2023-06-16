@@ -1,0 +1,9 @@
+h1, h2, p{
+    text-align: center;
+    color: lightgrey;
+    font-family: sans-serif; 
+}
+
+html{
+	background-image: url(https://lumiere-a.akamaihd.net/v1/images/star-wars-backgrounds-20-1_33761d6d.jpeg);
+}
