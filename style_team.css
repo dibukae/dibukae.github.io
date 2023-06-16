@@ -21,6 +21,9 @@ p {
 #dylan {
     width: 200px;
 }
+#briahna{
+    width: 200px;
+}
 
 body {
     background: url(https://media2.giphy.com/media/1ylebTFyDHaa46IDgO/giphy.gif) no-repeat center center fixed;
@@ -29,11 +32,17 @@ body {
     -o-background-size: cover;
     background-size: cover;
 }
-a:visited {
+a:link {
     color: ghostwhite;
     background-color: transparent;
     text-decoration: none;
   }
+a:visited {
+    color: lightseagreen;
+    background-color: transparent;
+    text-decoration: none;
+  }
+
 
 /* #wrapper1 {
     width: 20%;

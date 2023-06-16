@@ -1,4 +1,4 @@
-h1, h2, h3, p{
+h1, h2, h3, p, figcaption{
     text-align: center;
     color: lightgrey;
     font-family: sans-serif; 
@@ -21,16 +21,16 @@ a{
     color: grey;
 }
 
-a:hover {
-	color: rgb(223, 189, 0);
-}
-
 a:visited{
 	color: rgb(255, 255, 255);
 }
 
 a:active{
 	color: rgb(0, 136, 255);
+}
+
+a:hover {
+	color: rgb(223, 189, 0);
 }
 
 hr{
@@ -41,10 +41,10 @@ hr{
 }
 
 img{
+    display: block;
+    margin-left: auto;
+	margin-right: auto;
     box-shadow: -10px 10px rgb(197, 164, 171);
     width: 500px;
     height: 320px;
-    margin-left: auto;
-	margin-right: auto;
-    display: block;
 }
