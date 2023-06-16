@@ -34,8 +34,8 @@ a:active{
 }
 
 hr{
-    height: 2px;
-	width: 250px;
+    height: 3px;
+	width: 450px;
     background-color: rgb(223, 189, 0);
     border-color: rgb(223, 189, 0);
 }
